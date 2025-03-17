@@ -9,3 +9,8 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
 Numero di push minimo: 6
 Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel file README.md
 Buon lavoro!
+
+step esercizio:
+1-andiamo a creare 3 variabili: una per un prompt che chiede i chilomentri da percorrere, una per un prompt che chiede l'età all'utente e una per stabilire il calcolo dep prezzo totale
+2-andiamo a creare due "if" per il calcolo dello sconto per i minorenni e gli over 65
+3-Creiamo un console.log per il calcolo del prezzo finale
