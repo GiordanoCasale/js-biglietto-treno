@@ -10,3 +10,5 @@ if (age < 18) {
     price = price * 0.8;
 }
 
+price = price.toFixed(2);
+console.log("il prezzo totale è di " + price + "€");
